@@ -1,0 +1,14 @@
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\bin\Debug\net8.0\DependencyInjection.exe
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\bin\Debug\net8.0\DependencyInjection.deps.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\bin\Debug\net8.0\DependencyInjection.runtimeconfig.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\bin\Debug\net8.0\DependencyInjection.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\bin\Debug\net8.0\DependencyInjection.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\obj\Debug\net8.0\refint\DependencyInjection.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.genruntimeconfig.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\DependencyInjection\DependencyInjection\obj\Debug\net8.0\ref\DependencyInjection.dll
