@@ -1,6 +1,6 @@
 ﻿namespace DependencyInjection
 {
-    public class Bussiness
+    public class Bussiness : IBussiness
     {
         public void SignUp(string userName, string password)
         {
