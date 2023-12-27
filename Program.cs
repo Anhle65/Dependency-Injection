@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            IDataAccess dataAccess = new DataAccess();
+            IBussiness bussiness = new Bussiness(dataAccess);
+            var userInterface = new UserInterface(bussiness);
         }
     }
 }
