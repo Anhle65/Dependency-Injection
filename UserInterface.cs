@@ -4,14 +4,18 @@ namespace DependencyInjection
 {
     public class UserInterface
     {
+        private readonly IBussiness _bussiness;
+        public UserInterface(IBussiness bussiness)
+        {
+            _bussiness = bussiness;
+        }
         public void GetData()
         {
             Console.WriteLine("Username: ");
             var userName = Console.ReadLine();
             Console.WriteLine("Password:");
             var password = Console.ReadLine();
-            var bussiness = new Bussiness();
-            bussiness.SignUp(userName, password);
+            _bussiness.SignUp(userName, password);
         }
     }
 }
