@@ -1,4 +1,6 @@
-﻿namespace DependencyInjection
+﻿using System;
+using Microsoft.Extensions.DependencyInjection;
+namespace DependencyInjection
 {
     public class Program
     {
@@ -6,7 +8,10 @@
         {
             IDataAccess dataAccess = new DataAccess();
             IBussiness bussiness = new Bussiness(dataAccess);
-            var userInterface = new UserInterface(bussiness);
+
+            //Access to BusinessV2
+            IBussiness bussinessV2 = new BusinessV2(dataAccess);
+            var userInterface = new UserInterface(bussinessV2);
         }
     }
 }
